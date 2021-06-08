@@ -5,8 +5,10 @@ Luro Lumbantoruan
 TI.19.B.1
 ```
 ## Langkah 1
-### Buka XAMPP lalu jalakan Apache dan MySQL
+### Buka XAMPP lalu jalankan Apache dan MySQL
 ![1](https://user-images.githubusercontent.com/82386899/121149244-b1cda680-c86c-11eb-9e90-e2e7420bc75f.png)
+## Langkah 2
+### Buat file lab10_php_OOP
 ![2](https://user-images.githubusercontent.com/82386899/121149871-3a4c4700-c86d-11eb-926a-4be1c73d018a.png)
 ## Langkah 3
 ### Buat file baru dengan nama mobil.php pada folder lab10_php_oop
